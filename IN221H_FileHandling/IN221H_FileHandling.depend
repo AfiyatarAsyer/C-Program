@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644542601 source:c:\users\hp\documents\codeblocksproject\in221h_filehandling\main.c
+	<stdio.h>
+	<stdlib.h>
+

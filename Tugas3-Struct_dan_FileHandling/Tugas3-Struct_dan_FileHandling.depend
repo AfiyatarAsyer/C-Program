@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646969390 source:c:\users\hp\documents\codeblocksproject\tugas3-struct_dan_filehandling\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+Data		: Afiyatar Asyer
+NIM		: 672019061
+Fakultas	: FTI
+Progdi		: S1 TI
+Angkatan	: 19

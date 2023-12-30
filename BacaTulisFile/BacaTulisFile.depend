@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643963009 source:c:\users\hp\documents\codeblocksproject\bacatulisfile\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+
+Nama		: Ajeng
+NIM		: 672020001
+Progdi		: S1 TI
+Fakultas	: FTI
+
+Nama		: Marthen
+NIM		: 672020002
+Progdi		: S1 TI
+Fakultas	: FTI

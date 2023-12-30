@@ -1,0 +1,15 @@
+Barang ke-1
+Nama Barang       : Air
+Banyak Barang   :2
+Harga Barang    :5000.00
+
+Barang ke-2
+Nama Barang       : Api
+Banyak Barang   :2
+Harga Barang    :6000.00
+
+Barang ke-3
+Nama Barang       : Hak
+Banyak Barang   :3
+Harga Barang    :3000.00
+
